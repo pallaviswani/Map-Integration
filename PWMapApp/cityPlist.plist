@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>city</key>
+		<string>Pune</string>
+		<key>Latitude</key>
+		<real>18.511957</real>
+		<key>Longitude</key>
+		<real>73.85535</real>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Mumbai</string>
+		<key>Latitude</key>
+		<real>19.19704</real>
+		<key>Longitude</key>
+		<real>72.96355</real>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Shegaon</string>
+		<key>Latitude</key>
+		<real>20.792713</real>
+		<key>Longitude</key>
+		<real>76.694328</real>
+	</dict>
+	<dict>
+		<key>city</key>
+		<string>Amaravati</string>
+		<key>Latitude</key>
+		<real>20.937423</real>
+		<key>Longitude</key>
+		<real>77.779551</real>
+	</dict>
+</array>
+</plist>
